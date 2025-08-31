@@ -25,9 +25,9 @@ Feel free to message me if you want to talk about my projects or collaborate.
 
 ## 📈 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelStueck&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel2oo7&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelStueck&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel2oo7&layout=compact&theme=radical)
 
 ---
 
