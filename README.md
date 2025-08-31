@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Stück
+# 👋 Hi, I'm Samuel
 
 > 💻 High school student completing my Abitur | Python, Java & Web
 
