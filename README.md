@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Samuel</h1>
 <h3 align="center">I'm a high school student competing for my Abitur.</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS, Java, Python, Pascal**
 
 - 📫 Wanna talk with me --> **contact@lazzyy.eu**
 
