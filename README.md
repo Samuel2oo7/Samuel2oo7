@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Samuel
 
-💻 I'm a high school student in Germany, currently doing my Abitur.
-❤️ I like coding, interested in fullstack development and embedded systems. 
-🍿 In my free time I do gaming, watch movies/series and hanging out with friends.
+💻 I'm a high school student in Germany, currently doing my Abitur. <br>
+❤️ I like coding, interested in fullstack development and embedded systems. <br>
+🍿 In my free time I do gaming, watch movies/series and hanging out with friends. <br>
 
 ---
 
